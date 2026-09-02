@@ -1,0 +1,1106 @@
+[
+  {
+    "id": 1,
+    "filename": "آزادراه.png",
+    "title": "آزادراه",
+    "category": "informative",
+    "imageUrl": "assets/آزادراه.png",
+    "audioUrl": "audio_perfect/آزادراه.mp3"
+  },
+  {
+    "id": 2,
+    "filename": "ایست-بازرسی-گمرک.png",
+    "title": "ایست بازرسی گمرک",
+    "category": "priority",
+    "imageUrl": "assets/ایست-بازرسی-گمرک.png",
+    "audioUrl": "audio_perfect/ایست-بازرسی-گمرک.mp3"
+  },
+  {
+    "id": 3,
+    "filename": "ایست.png",
+    "title": "ایست",
+    "category": "priority",
+    "imageUrl": "assets/ایست.png",
+    "audioUrl": "audio_perfect/ایست.mp3"
+  },
+  {
+    "id": 4,
+    "filename": "ایستگاه-اتوبوس.png",
+    "title": "ایستگاه اتوبوس",
+    "category": "priority",
+    "imageUrl": "assets/ایستگاه-اتوبوس.png",
+    "audioUrl": "audio_perfect/ایستگاه-اتوبوس.mp3"
+  },
+  {
+    "id": 5,
+    "filename": "ایستگاه-قطار-شهری.png",
+    "title": "ایستگاه قطار شهری",
+    "category": "priority",
+    "imageUrl": "assets/ایستگاه-قطار-شهری.png",
+    "audioUrl": "audio_perfect/ایستگاه-قطار-شهری.mp3"
+  },
+  {
+    "id": 6,
+    "filename": "برآمدگی-سرعت-گیر.png",
+    "title": "برآمدگی سرعت گیر",
+    "category": "informative",
+    "imageUrl": "assets/برآمدگی-سرعت-گیر.png",
+    "audioUrl": "audio_perfect/برآمدگی-سرعت-گیر.mp3"
+  },
+  {
+    "id": 7,
+    "filename": "بوق-زدن-ممنوع.png",
+    "title": "بوق زدن ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/بوق-زدن-ممنوع.png",
+    "audioUrl": "audio_perfect/بوق-زدن-ممنوع.mp3"
+  },
+  {
+    "id": 8,
+    "filename": "تراکم-ترافیک.png",
+    "title": "تراکم ترافیک",
+    "category": "informative",
+    "imageUrl": "assets/تراکم-ترافیک.png",
+    "audioUrl": "audio_perfect/تراکم-ترافیک.mp3"
+  },
+  {
+    "id": 9,
+    "filename": "تقاطع-راه-آهن-با-راهبند.png",
+    "title": "تقاطع راه آهن با راهبند",
+    "category": "warning",
+    "imageUrl": "assets/تقاطع-راه-آهن-با-راهبند.png",
+    "audioUrl": "audio_perfect/تقاطع-راه-آهن-با-راهبند.mp3"
+  },
+  {
+    "id": 10,
+    "filename": "تقاطع-راه-آهن-بدون-راهبند.png",
+    "title": "تقاطع راه آهن بدون راهبند",
+    "category": "warning",
+    "imageUrl": "assets/تقاطع-راه-آهن-بدون-راهبند.png",
+    "audioUrl": "audio_perfect/تقاطع-راه-آهن-بدون-راهبند.mp3"
+  },
+  {
+    "id": 11,
+    "filename": "تقاطع-فرعی-و-اصلی.png",
+    "title": "تقاطع فرعی و اصلی",
+    "category": "warning",
+    "imageUrl": "assets/تقاطع-فرعی-و-اصلی.png",
+    "audioUrl": "audio_perfect/تقاطع-فرعی-و-اصلی.mp3"
+  },
+  {
+    "id": 12,
+    "filename": "تقاطع-مسیر-قطار-شهری.png",
+    "title": "تقاطع مسیر قطار شهری",
+    "category": "warning",
+    "imageUrl": "assets/تقاطع-مسیر-قطار-شهری.png",
+    "audioUrl": "audio_perfect/تقاطع-مسیر-قطار-شهری.mp3"
+  },
+  {
+    "id": 13,
+    "filename": "تقاطع.png",
+    "title": "تقاطع",
+    "category": "warning",
+    "imageUrl": "assets/تقاطع.png",
+    "audioUrl": "audio_perfect/تقاطع.mp3"
+  },
+  {
+    "id": 14,
+    "filename": "توقف-در-روزهای-زوج-هفته-ممنوع.png",
+    "title": "توقف در روزهای زوج هفته ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/توقف-در-روزهای-زوج-هفته-ممنوع.png",
+    "audioUrl": "audio_perfect/توقف-در-روزهای-زوج-هفته-ممنوع.mp3"
+  },
+  {
+    "id": 15,
+    "filename": "توقف-در-روزهای-فرد-هفته-ممنوع.png",
+    "title": "توقف در روزهای فرد هفته ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/توقف-در-روزهای-فرد-هفته-ممنوع.png",
+    "audioUrl": "audio_perfect/توقف-در-روزهای-فرد-هفته-ممنوع.mp3"
+  },
+  {
+    "id": 16,
+    "filename": "توقف-و-پارک-ممنوع.png",
+    "title": "توقف و پارک ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/توقف-و-پارک-ممنوع.png",
+    "audioUrl": "audio_perfect/توقف-و-پارک-ممنوع.mp3"
+  },
+  {
+    "id": 17,
+    "filename": "جاده-باریک-می‌شود.png",
+    "title": "جاده باریک می‌شود",
+    "category": "warning",
+    "imageUrl": "assets/جاده-باریک-می‌شود.png",
+    "audioUrl": "audio_perfect/جاده-باریک-می‌شود.mp3"
+  },
+  {
+    "id": 18,
+    "filename": "جاده-دوطرفه-است.png",
+    "title": "جاده دوطرفه است",
+    "category": "warning",
+    "imageUrl": "assets/جاده-دوطرفه-است.png",
+    "audioUrl": "audio_perfect/جاده-دوطرفه-است.mp3"
+  },
+  {
+    "id": 19,
+    "filename": "جهت-عبور-در-میدان.png",
+    "title": "جهت عبور در میدان",
+    "category": "regulatory",
+    "imageUrl": "assets/جهت-عبور-در-میدان.png",
+    "audioUrl": "audio_perfect/جهت-عبور-در-میدان.mp3"
+  },
+  {
+    "id": 20,
+    "filename": "جهت-وزش-باد-شدید-از-چپ.png",
+    "title": "جهت وزش باد شدید از چپ",
+    "category": "mandatory",
+    "imageUrl": "assets/جهت-وزش-باد-شدید-از-چپ.png",
+    "audioUrl": "audio_perfect/جهت-وزش-باد-شدید-از-چپ.mp3"
+  },
+  {
+    "id": 21,
+    "filename": "حداقل-سرعت-در-خط-عبور.png",
+    "title": "حداقل سرعت در خط عبور",
+    "category": "regulatory",
+    "imageUrl": "assets/حداقل-سرعت-در-خط-عبور.png",
+    "audioUrl": "audio_perfect/حداقل-سرعت-در-خط-عبور.mp3"
+  },
+  {
+    "id": 22,
+    "filename": "حداقل-سرعت-۳۰-کیلومتر.png",
+    "title": "حداقل سرعت ۳۰ کیلومتر",
+    "category": "mandatory",
+    "imageUrl": "assets/حداقل-سرعت-۳۰-کیلومتر.png",
+    "audioUrl": "audio_perfect/حداقل-سرعت-۳۰-کیلومتر.mp3"
+  },
+  {
+    "id": 23,
+    "filename": "حداکثر-سرعت-در-خط‌های-عبور.png",
+    "title": "حداکثر سرعت در خط‌های عبور",
+    "category": "regulatory",
+    "imageUrl": "assets/حداکثر-سرعت-در-خط‌های-عبور.png",
+    "audioUrl": "audio_perfect/حداکثر-سرعت-در-خط‌های-عبور.mp3"
+  },
+  {
+    "id": 24,
+    "filename": "حق-تقدم-عبور-با-شما.png",
+    "title": "حق تقدم عبور با شما",
+    "category": "regulatory",
+    "imageUrl": "assets/حق-تقدم-عبور-با-شما.png",
+    "audioUrl": "audio_perfect/حق-تقدم-عبور-با-شما.mp3"
+  },
+  {
+    "id": 25,
+    "filename": "حق-تقدم-عبور-با-وسیله-نقلیه-مقابل-است.png",
+    "title": "حق تقدم عبور با وسیله نقلیه مقابل است",
+    "category": "regulatory",
+    "imageUrl": "assets/حق-تقدم-عبور-با-وسیله-نقلیه-مقابل-است.png",
+    "audioUrl": "audio_perfect/حق-تقدم-عبور-با-وسیله-نقلیه-مقابل-است.mp3"
+  },
+  {
+    "id": 26,
+    "filename": "حیوانات-اهلی.png",
+    "title": "حیوانات اهلی",
+    "category": "warning",
+    "imageUrl": "assets/حیوانات-اهلی.png",
+    "audioUrl": "audio_perfect/حیوانات-اهلی.mp3"
+  },
+  {
+    "id": 27,
+    "filename": "حیوانات-وحشی.png",
+    "title": "حیوانات وحشی",
+    "category": "warning",
+    "imageUrl": "assets/حیوانات-وحشی.png",
+    "audioUrl": "audio_perfect/حیوانات-وحشی.mp3"
+  },
+  {
+    "id": 28,
+    "filename": "خروج-از-آزادراه-100-متر.png",
+    "title": "خروج از آزادراه 100 متر",
+    "category": "informative",
+    "imageUrl": "assets/خروج-از-آزادراه-100-متر.png",
+    "audioUrl": "audio_perfect/خروج-از-آزادراه-100-متر.mp3"
+  },
+  {
+    "id": 29,
+    "filename": "خروج-از-آزادراه-200-متر.png",
+    "title": "خروج از آزادراه 200 متر",
+    "category": "informative",
+    "imageUrl": "assets/خروج-از-آزادراه-200-متر.png",
+    "audioUrl": "audio_perfect/خروج-از-آزادراه-200-متر.mp3"
+  },
+  {
+    "id": 30,
+    "filename": "خروج-از-آزادراه-300-متر.png",
+    "title": "خروج از آزادراه 300 متر",
+    "category": "informative",
+    "imageUrl": "assets/خروج-از-آزادراه-300-متر.png",
+    "audioUrl": "audio_perfect/خروج-از-آزادراه-300-متر.mp3"
+  },
+  {
+    "id": 31,
+    "filename": "خط-ویژه-عبور.png",
+    "title": "خط ویژه عبور",
+    "category": "regulatory",
+    "imageUrl": "assets/خط-ویژه-عبور.png",
+    "audioUrl": "audio_perfect/خط-ویژه-عبور.mp3"
+  },
+  {
+    "id": 32,
+    "filename": "خطر-سقوط-در-آب.png",
+    "title": "خطر سقوط در آب",
+    "category": "warning",
+    "imageUrl": "assets/خطر-سقوط-در-آب.png",
+    "audioUrl": "audio_perfect/خطر-سقوط-در-آب.mp3"
+  },
+  {
+    "id": 33,
+    "filename": "خطر.png",
+    "title": "خطر",
+    "category": "warning",
+    "imageUrl": "assets/خطر.png",
+    "audioUrl": "audio_perfect/خطر.mp3"
+  },
+  {
+    "id": 34,
+    "filename": "خیابان-اصلی.png",
+    "title": "خیابان اصلی",
+    "category": "informative",
+    "imageUrl": "assets/خیابان-اصلی.png",
+    "audioUrl": "audio_perfect/خیابان-اصلی.mp3"
+  },
+  {
+    "id": 35,
+    "filename": "خیابان-یک‌طرفه.png",
+    "title": "خیابان یک‌طرفه",
+    "category": "informative",
+    "imageUrl": "assets/خیابان-یک‌طرفه.png",
+    "audioUrl": "audio_perfect/خیابان-یک‌طرفه.mp3"
+  },
+  {
+    "id": 36,
+    "filename": "دست‌انداز.png",
+    "title": "دست‌انداز",
+    "category": "warning",
+    "imageUrl": "assets/دست‌انداز.png",
+    "audioUrl": "audio_perfect/دست‌انداز.mp3"
+  },
+  {
+    "id": 37,
+    "filename": "دور-زدن-مجاز-است.png",
+    "title": "دور زدن مجاز است",
+    "category": "informative",
+    "imageUrl": "assets/دور-زدن-مجاز-است.png",
+    "audioUrl": "audio_perfect/دور-زدن-مجاز-است.mp3"
+  },
+  {
+    "id": 38,
+    "filename": "دور-زدن-ممنوع.png",
+    "title": "دور زدن ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/دور-زدن-ممنوع.png",
+    "audioUrl": "audio_perfect/دور-زدن-ممنوع.mp3"
+  },
+  {
+    "id": 39,
+    "filename": "دوچرخه‌سوار.png",
+    "title": "دوچرخه‌سوار",
+    "category": "informative",
+    "imageUrl": "assets/دوچرخه‌سوار.png",
+    "audioUrl": "audio_perfect/دوچرخه‌سوار.mp3"
+  },
+  {
+    "id": 40,
+    "filename": "راه-از-راست-باریک-می‌شود.png",
+    "title": "راه از راست باریک می‌شود",
+    "category": "informative",
+    "imageUrl": "assets/راه-از-راست-باریک-می‌شود.png",
+    "audioUrl": "audio_perfect/راه-از-راست-باریک-می‌شود.mp3"
+  },
+  {
+    "id": 41,
+    "filename": "راه-از-چپ-باریک-می‌شود.png",
+    "title": "راه از چپ باریک می‌شود",
+    "category": "informative",
+    "imageUrl": "assets/راه-از-چپ-باریک-می‌شود.png",
+    "audioUrl": "audio_perfect/راه-از-چپ-باریک-می‌شود.mp3"
+  },
+  {
+    "id": 42,
+    "filename": "راه-لغزنده.png",
+    "title": "راه لغزنده",
+    "category": "informative",
+    "imageUrl": "assets/راه-لغزنده.png",
+    "audioUrl": "audio_perfect/راه-لغزنده.mp3"
+  },
+  {
+    "id": 43,
+    "filename": "راه-یک‌طرفه.png",
+    "title": "راه یک‌طرفه",
+    "category": "informative",
+    "imageUrl": "assets/راه-یک‌طرفه.png",
+    "audioUrl": "audio_perfect/راه-یک‌طرفه.mp3"
+  },
+  {
+    "id": 44,
+    "filename": "رعایت-حق-تقدم.png",
+    "title": "رعایت حق تقدم",
+    "category": "priority",
+    "imageUrl": "assets/رعایت-حق-تقدم.png",
+    "audioUrl": "audio_perfect/رعایت-حق-تقدم.mp3"
+  },
+  {
+    "id": 45,
+    "filename": "رعایت-فاصله-کمتر-از-۵۰-متر-ممنوع.png",
+    "title": "رعایت فاصله کمتر از ۵۰ متر ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/رعایت-فاصله-کمتر-از-۵۰-متر-ممنوع.png",
+    "audioUrl": "audio_perfect/رعایت-فاصله-کمتر-از-۵۰-متر-ممنوع.mp3"
+  },
+  {
+    "id": 46,
+    "filename": "ریزش-سنگ.png",
+    "title": "ریزش سنگ",
+    "category": "warning",
+    "imageUrl": "assets/ریزش-سنگ.png",
+    "audioUrl": "audio_perfect/ریزش-سنگ.mp3"
+  },
+  {
+    "id": 47,
+    "filename": "سبقت-برای-کامیون-ممنوع.png",
+    "title": "سبقت برای کامیون ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/سبقت-برای-کامیون-ممنوع.png",
+    "audioUrl": "audio_perfect/سبقت-برای-کامیون-ممنوع.mp3"
+  },
+  {
+    "id": 48,
+    "filename": "سبقت-ممنوع.png",
+    "title": "سبقت ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/سبقت-ممنوع.png",
+    "audioUrl": "audio_perfect/سبقت-ممنوع.mp3"
+  },
+  {
+    "id": 49,
+    "filename": "سرازیری.png",
+    "title": "سرازیری",
+    "category": "informative",
+    "imageUrl": "assets/سرازیری.png",
+    "audioUrl": "audio_perfect/سرازیری.mp3"
+  },
+  {
+    "id": 50,
+    "filename": "سربالایی.png",
+    "title": "سربالایی",
+    "category": "informative",
+    "imageUrl": "assets/سربالایی.png",
+    "audioUrl": "audio_perfect/سربالایی.mp3"
+  },
+  {
+    "id": 51,
+    "filename": "سرعت-بیش-از-۳۰-کیلومتر-بر-ساعت-ممنوع.png",
+    "title": "سرعت بیش از ۳۰ کیلومتر بر ساعت ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/سرعت-بیش-از-۳۰-کیلومتر-بر-ساعت-ممنوع.png",
+    "audioUrl": "audio_perfect/سرعت-بیش-از-۳۰-کیلومتر-بر-ساعت-ممنوع.mp3"
+  },
+  {
+    "id": 52,
+    "filename": "سوارکاری-ممنوع.png",
+    "title": "سوارکاری ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/سوارکاری-ممنوع.png",
+    "audioUrl": "audio_perfect/سوارکاری-ممنوع.mp3"
+  },
+  {
+    "id": 53,
+    "filename": "شانه-خطرناک.png",
+    "title": "شانه خطرناک",
+    "category": "warning",
+    "imageUrl": "assets/شانه-خطرناک.png",
+    "audioUrl": "audio_perfect/شانه-خطرناک.mp3"
+  },
+  {
+    "id": 54,
+    "filename": "شیب-سرازیری-۱۲-درصد.png",
+    "title": "شیب سرازیری ۱۲ درصد",
+    "category": "warning",
+    "imageUrl": "assets/شیب-سرازیری-۱۲-درصد.png",
+    "audioUrl": "audio_perfect/شیب-سرازیری-۱۲-درصد.mp3"
+  },
+  {
+    "id": 55,
+    "filename": "شیب-سربالایی-۱۲-درصد.png",
+    "title": "شیب سربالایی ۱۲ درصد",
+    "category": "warning",
+    "imageUrl": "assets/شیب-سربالایی-۱۲-درصد.png",
+    "audioUrl": "audio_perfect/شیب-سربالایی-۱۲-درصد.mp3"
+  },
+  {
+    "id": 56,
+    "filename": "عبور-از-سمت-راست-مجاز-است.png",
+    "title": "عبور از سمت راست مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-از-سمت-راست-مجاز-است.png",
+    "audioUrl": "audio_perfect/عبور-از-سمت-راست-مجاز-است.mp3"
+  },
+  {
+    "id": 57,
+    "filename": "عبور-از-سمت-چپ-مجاز-است.png",
+    "title": "عبور از سمت چپ مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-از-سمت-چپ-مجاز-است.png",
+    "audioUrl": "audio_perfect/عبور-از-سمت-چپ-مجاز-است.mp3"
+  },
+  {
+    "id": 58,
+    "filename": "عبور-از-هر-دو-سمت-مجاز-است.png",
+    "title": "عبور از هر دو سمت مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-از-هر-دو-سمت-مجاز-است.png",
+    "audioUrl": "audio_perfect/عبور-از-هر-دو-سمت-مجاز-است.mp3"
+  },
+  {
+    "id": 59,
+    "filename": "عبور-با-ارتفاع-بیش-از-۲-۹-متر-ممنوع.png",
+    "title": "عبور با ارتفاع بیش از ۲ ۹ متر ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-با-ارتفاع-بیش-از-۲-۹-متر-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-با-ارتفاع-بیش-از-۲-۹-متر-ممنوع.mp3"
+  },
+  {
+    "id": 60,
+    "filename": "عبور-با-بار-بیش-از-۲-۴-تن-بر-هر-محور-ممنوع.png",
+    "title": "عبور با بار بیش از ۲ ۴ تن بر هر محور ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-با-بار-بیش-از-۲-۴-تن-بر-هر-محور-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-با-بار-بیش-از-۲-۴-تن-بر-هر-محور-ممنوع.mp3"
+  },
+  {
+    "id": 61,
+    "filename": "عبور-با-عرض-بیش-از-دو-متر-ممنوع.png",
+    "title": "عبور با عرض بیش از دو متر ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-با-عرض-بیش-از-دو-متر-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-با-عرض-بیش-از-دو-متر-ممنوع.mp3"
+  },
+  {
+    "id": 62,
+    "filename": "عبور-خودرو-با-یدک-ممنوع.png",
+    "title": "عبور خودرو با یدک ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-خودرو-با-یدک-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-خودرو-با-یدک-ممنوع.mp3"
+  },
+  {
+    "id": 63,
+    "filename": "عبور-خودروی-کشاورزی-ممنوع.png",
+    "title": "عبور خودروی کشاورزی ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-خودروی-کشاورزی-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-خودروی-کشاورزی-ممنوع.mp3"
+  },
+  {
+    "id": 64,
+    "filename": "عبور-دوچرخه-ممنوع.png",
+    "title": "عبور دوچرخه ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-دوچرخه-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-دوچرخه-ممنوع.mp3"
+  },
+  {
+    "id": 65,
+    "filename": "عبور-سواری-ممنوع.png",
+    "title": "عبور سواری ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-سواری-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-سواری-ممنوع.mp3"
+  },
+  {
+    "id": 66,
+    "filename": "عبور-موتور-گازی-ممنوع.png",
+    "title": "عبور موتور گازی ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-موتور-گازی-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-موتور-گازی-ممنوع.mp3"
+  },
+  {
+    "id": 67,
+    "filename": "عبور-موتورسیكلت-ممنوع.png",
+    "title": "عبور موتورسیكلت ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-موتورسیكلت-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-موتورسیكلت-ممنوع.mp3"
+  },
+  {
+    "id": 68,
+    "filename": "عبور-وسایل-نقلیه-با-محموله-خطرناک-ممنوع.png",
+    "title": "عبور وسایل نقلیه با محموله خطرناک ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-وسایل-نقلیه-با-محموله-خطرناک-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-وسایل-نقلیه-با-محموله-خطرناک-ممنوع.mp3"
+  },
+  {
+    "id": 69,
+    "filename": "عبور-وسایل-نقلیه-با-وزن-بیش-از-۵-۵-تن-ممنوع.png",
+    "title": "عبور وسایل نقلیه با وزن بیش از ۵ ۵ تن ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-وسایل-نقلیه-با-وزن-بیش-از-۵-۵-تن-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-وسایل-نقلیه-با-وزن-بیش-از-۵-۵-تن-ممنوع.mp3"
+  },
+  {
+    "id": 70,
+    "filename": "عبور-وسایل-نقلیه-موتوری-ممنوع.png",
+    "title": "عبور وسایل نقلیه موتوری ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-وسایل-نقلیه-موتوری-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-وسایل-نقلیه-موتوری-ممنوع.mp3"
+  },
+  {
+    "id": 71,
+    "filename": "عبور-پیاده-ممنوع.png",
+    "title": "عبور پیاده ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-پیاده-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-پیاده-ممنوع.mp3"
+  },
+  {
+    "id": 72,
+    "filename": "عبور-چرخ-دستی-ممنوع.png",
+    "title": "عبور چرخ دستی ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-چرخ-دستی-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-چرخ-دستی-ممنوع.mp3"
+  },
+  {
+    "id": 73,
+    "filename": "عبور-کامیون-با-طول-بیش-از-۱۰-متر-ممنوع.png",
+    "title": "عبور کامیون با طول بیش از ۱۰ متر ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-کامیون-با-طول-بیش-از-۱۰-متر-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-کامیون-با-طول-بیش-از-۱۰-متر-ممنوع.mp3"
+  },
+  {
+    "id": 74,
+    "filename": "عبور-کامیون-ممنوع.png",
+    "title": "عبور کامیون ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-کامیون-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-کامیون-ممنوع.mp3"
+  },
+  {
+    "id": 75,
+    "filename": "عبور-کامیون-یدک‌دار-ممنوع.png",
+    "title": "عبور کامیون یدک‌دار ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-کامیون-یدک‌دار-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-کامیون-یدک‌دار-ممنوع.mp3"
+  },
+  {
+    "id": 76,
+    "filename": "عبور-کلیه-وسایل-نقلیه-ممنوع.png",
+    "title": "عبور کلیه وسایل نقلیه ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-کلیه-وسایل-نقلیه-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-کلیه-وسایل-نقلیه-ممنوع.mp3"
+  },
+  {
+    "id": 77,
+    "filename": "عبور-گاری-ممنوع.png",
+    "title": "عبور گاری ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/عبور-گاری-ممنوع.png",
+    "audioUrl": "audio_perfect/عبور-گاری-ممنوع.mp3"
+  },
+  {
+    "id": 78,
+    "filename": "فقط-با-زنجیر-چرخ.png",
+    "title": "فقط با زنجیر چرخ",
+    "category": "mandatory",
+    "imageUrl": "assets/فقط-با-زنجیر-چرخ.png",
+    "audioUrl": "audio_perfect/فقط-با-زنجیر-چرخ.mp3"
+  },
+  {
+    "id": 79,
+    "filename": "فقط-عبور-اتوبوس-مجاز-است.png",
+    "title": "فقط عبور اتوبوس مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-اتوبوس-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-عبور-اتوبوس-مجاز-است.mp3"
+  },
+  {
+    "id": 80,
+    "filename": "فقط-عبور-اسب‌سوار-مجاز-است.png",
+    "title": "فقط عبور اسب‌سوار مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-اسب‌سوار-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-عبور-اسب‌سوار-مجاز-است.mp3"
+  },
+  {
+    "id": 81,
+    "filename": "فقط-عبور-به-راست-مجاز-است.png",
+    "title": "فقط عبور به راست مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-به-راست-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-عبور-به-راست-مجاز-است.mp3"
+  },
+  {
+    "id": 82,
+    "filename": "فقط-عبور-به-چپ-مجاز-است.png",
+    "title": "فقط عبور به چپ مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-به-چپ-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-عبور-به-چپ-مجاز-است.mp3"
+  },
+  {
+    "id": 83,
+    "filename": "فقط-عبور-دوچرخه-مجاز-است.png",
+    "title": "فقط عبور دوچرخه مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-دوچرخه-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-عبور-دوچرخه-مجاز-است.mp3"
+  },
+  {
+    "id": 84,
+    "filename": "فقط-عبور-دوچرخه-و-پیاده-مجاز-است-مسیر-غیرمشترک.png",
+    "title": "فقط عبور دوچرخه و پیاده مجاز است مسیر غیرمشترک",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-دوچرخه-و-پیاده-مجاز-است-مسیر-غیرمشترک.png",
+    "audioUrl": "audio_perfect/فقط-عبور-دوچرخه-و-پیاده-مجاز-است-مسیر-غیرمشترک.mp3"
+  },
+  {
+    "id": 85,
+    "filename": "فقط-عبور-دوچرخه-و-پیاده-مجاز-است-مسیر-مشترک.png",
+    "title": "فقط عبور دوچرخه و پیاده مجاز است مسیر مشترک",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-دوچرخه-و-پیاده-مجاز-است-مسیر-مشترک.png",
+    "audioUrl": "audio_perfect/فقط-عبور-دوچرخه-و-پیاده-مجاز-است-مسیر-مشترک.mp3"
+  },
+  {
+    "id": 86,
+    "filename": "فقط-عبور-مستقیم-مجاز-است.png",
+    "title": "فقط عبور مستقیم مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-مستقیم-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-عبور-مستقیم-مجاز-است.mp3"
+  },
+  {
+    "id": 87,
+    "filename": "فقط-عبور-پیاده-مجاز-است.png",
+    "title": "فقط عبور پیاده مجاز است",
+    "category": "regulatory",
+    "imageUrl": "assets/فقط-عبور-پیاده-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-عبور-پیاده-مجاز-است.mp3"
+  },
+  {
+    "id": 88,
+    "filename": "فقط-مستقیم-و-گردش-به-راست-مجاز-است.png",
+    "title": "فقط مستقیم و گردش به راست مجاز است",
+    "category": "mandatory",
+    "imageUrl": "assets/فقط-مستقیم-و-گردش-به-راست-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-مستقیم-و-گردش-به-راست-مجاز-است.mp3"
+  },
+  {
+    "id": 89,
+    "filename": "فقط-مستقیم-و-گردش-به-چپ-مجاز-است.png",
+    "title": "فقط مستقیم و گردش به چپ مجاز است",
+    "category": "mandatory",
+    "imageUrl": "assets/فقط-مستقیم-و-گردش-به-چپ-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-مستقیم-و-گردش-به-چپ-مجاز-است.mp3"
+  },
+  {
+    "id": 90,
+    "filename": "فقط-گردش-به-راست-مجاز-است.png",
+    "title": "فقط گردش به راست مجاز است",
+    "category": "mandatory",
+    "imageUrl": "assets/فقط-گردش-به-راست-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-گردش-به-راست-مجاز-است.mp3"
+  },
+  {
+    "id": 91,
+    "filename": "فقط-گردش-به-چپ-مجاز-است.png",
+    "title": "فقط گردش به چپ مجاز است",
+    "category": "mandatory",
+    "imageUrl": "assets/فقط-گردش-به-چپ-مجاز-است.png",
+    "audioUrl": "audio_perfect/فقط-گردش-به-چپ-مجاز-است.mp3"
+  },
+  {
+    "id": 92,
+    "filename": "محدوده-توقف-ممنوع-در-ساعات-معین.png",
+    "title": "محدوده توقف ممنوع در ساعات معین",
+    "category": "regulatory",
+    "imageUrl": "assets/محدوده-توقف-ممنوع-در-ساعات-معین.png",
+    "audioUrl": "audio_perfect/محدوده-توقف-ممنوع-در-ساعات-معین.mp3"
+  },
+  {
+    "id": 93,
+    "filename": "محدوده-توقف-ممنوع-در-طول-شبانه‌روز.png",
+    "title": "محدوده توقف ممنوع در طول شبانه‌روز",
+    "category": "regulatory",
+    "imageUrl": "assets/محدوده-توقف-ممنوع-در-طول-شبانه‌روز.png",
+    "audioUrl": "audio_perfect/محدوده-توقف-ممنوع-در-طول-شبانه‌روز.mp3"
+  },
+  {
+    "id": 94,
+    "filename": "محدوده-پارک-آزاد.png",
+    "title": "محدوده پارک آزاد",
+    "category": "regulatory",
+    "imageUrl": "assets/محدوده-پارک-آزاد.png",
+    "audioUrl": "audio_v3/محدوده-پارک-آزاد.mp3"
+  },
+  {
+    "id": 95,
+    "filename": "محدودیت-عبور-کامیون-در-مسیر-مشخص.png",
+    "title": "محدودیت عبور کامیون در مسیر مشخص",
+    "category": "regulatory",
+    "imageUrl": "assets/محدودیت-عبور-کامیون-در-مسیر-مشخص.png",
+    "audioUrl": "audio_v3/محدودیت-عبور-کامیون-در-مسیر-مشخص.mp3"
+  },
+  {
+    "id": 96,
+    "filename": "مسیر-کامیون-حمل-کالای-خطرناک.png",
+    "title": "مسیر کامیون حمل کالای خطرناک",
+    "category": "warning",
+    "imageUrl": "assets/مسیر-کامیون-حمل-کالای-خطرناک.png",
+    "audioUrl": "audio_v3/مسیر-کامیون-حمل-کالای-خطرناک.mp3"
+  },
+  {
+    "id": 97,
+    "filename": "میدان.png",
+    "title": "میدان",
+    "category": "informative",
+    "imageUrl": "assets/میدان.png",
+    "audioUrl": "audio_v3/میدان.mp3"
+  },
+  {
+    "id": 98,
+    "filename": "نمایش-مسیر-بن‌بست-و-مسیر-عبوری.png",
+    "title": "نمایش مسیر بن‌بست و مسیر عبوری",
+    "category": "regulatory",
+    "imageUrl": "assets/نمایش-مسیر-بن‌بست-و-مسیر-عبوری.png",
+    "audioUrl": "audio_v3/نمایش-مسیر-بن‌بست-و-مسیر-عبوری.mp3"
+  },
+  {
+    "id": 99,
+    "filename": "ورود-اتوبوس-ممنوع.png",
+    "title": "ورود اتوبوس ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/ورود-اتوبوس-ممنوع.png",
+    "audioUrl": "audio_perfect/ورود-اتوبوس-ممنوع.mp3"
+  },
+  {
+    "id": 100,
+    "filename": "ورود-از-هر-دو-طرف-ممنوع.png",
+    "title": "ورود از هر دو طرف ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/ورود-از-هر-دو-طرف-ممنوع.png",
+    "audioUrl": "audio_perfect/ورود-از-هر-دو-طرف-ممنوع.mp3"
+  },
+  {
+    "id": 101,
+    "filename": "ورود-به-راه-اصلی-از-راست.png",
+    "title": "ورود به راه اصلی از راست",
+    "category": "regulatory",
+    "imageUrl": "assets/ورود-به-راه-اصلی-از-راست.png",
+    "audioUrl": "audio_perfect/ورود-به-راه-اصلی-از-راست.mp3"
+  },
+  {
+    "id": 102,
+    "filename": "ورود-به-راه-اصلی-از-چپ.png",
+    "title": "ورود به راه اصلی از چپ",
+    "category": "regulatory",
+    "imageUrl": "assets/ورود-به-راه-اصلی-از-چپ.png",
+    "audioUrl": "audio_perfect/ورود-به-راه-اصلی-از-چپ.mp3"
+  },
+  {
+    "id": 103,
+    "filename": "ورود-به-شهر.png",
+    "title": "ورود به شهر",
+    "category": "regulatory",
+    "imageUrl": "assets/ورود-به-شهر.png",
+    "audioUrl": "audio_perfect/ورود-به-شهر.mp3"
+  },
+  {
+    "id": 104,
+    "filename": "ورود-ممنوع.png",
+    "title": "ورود ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/ورود-ممنوع.png",
+    "audioUrl": "audio_perfect/ورود-ممنوع.mp3"
+  },
+  {
+    "id": 105,
+    "filename": "پارک-سوار.png",
+    "title": "پارک سوار",
+    "category": "regulatory",
+    "imageUrl": "assets/پارک-سوار.png",
+    "audioUrl": "audio_perfect/پارک-سوار.mp3"
+  },
+  {
+    "id": 106,
+    "filename": "پارک-و-ایستادن-ممنوع.png",
+    "title": "پارک و ایستادن ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/پارک-و-ایستادن-ممنوع.png",
+    "audioUrl": "audio_perfect/پارک-و-ایستادن-ممنوع.mp3"
+  },
+  {
+    "id": 107,
+    "filename": "پارکینگ-مخصوص-افراد-معلول.png",
+    "title": "پارکینگ مخصوص افراد معلول",
+    "category": "regulatory",
+    "imageUrl": "assets/پارکینگ-مخصوص-افراد-معلول.png",
+    "audioUrl": "audio_perfect/پارکینگ-مخصوص-افراد-معلول.mp3"
+  },
+  {
+    "id": 108,
+    "filename": "پارکینگ.png",
+    "title": "پارکینگ",
+    "category": "regulatory",
+    "imageUrl": "assets/پارکینگ.png",
+    "audioUrl": "audio_perfect/پارکینگ.mp3"
+  },
+  {
+    "id": 109,
+    "filename": "پارک‌سوار.png",
+    "title": "پارک‌سوار",
+    "category": "regulatory",
+    "imageUrl": "assets/پارک‌سوار.png",
+    "audioUrl": "audio_perfect/پارک‌سوار.mp3"
+  },
+  {
+    "id": 110,
+    "filename": "پایان-آزادراه.png",
+    "title": "پایان آزادراه",
+    "category": "informative",
+    "imageUrl": "assets/پایان-آزادراه.png",
+    "audioUrl": "audio_perfect/پایان-آزادراه.mp3"
+  },
+  {
+    "id": 111,
+    "filename": "پایان-تمام-محدودیت‌ها.png",
+    "title": "پایان تمام محدودیت‌ها",
+    "category": "informative",
+    "imageUrl": "assets/پایان-تمام-محدودیت‌ها.png",
+    "audioUrl": "audio_perfect/پایان-تمام-محدودیت‌ها.mp3"
+  },
+  {
+    "id": 112,
+    "filename": "پایان-حداقل-سرعت-۳۰-کیلومتر.png",
+    "title": "پایان حداقل سرعت ۳۰ کیلومتر",
+    "category": "mandatory",
+    "imageUrl": "assets/پایان-حداقل-سرعت-۳۰-کیلومتر.png",
+    "audioUrl": "audio_perfect/پایان-حداقل-سرعت-۳۰-کیلومتر.mp3"
+  },
+  {
+    "id": 113,
+    "filename": "پایان-خیابان-اصلی.png",
+    "title": "پایان خیابان اصلی",
+    "category": "informative",
+    "imageUrl": "assets/پایان-خیابان-اصلی.png",
+    "audioUrl": "audio_perfect/پایان-خیابان-اصلی.mp3"
+  },
+  {
+    "id": 114,
+    "filename": "پایان-سبقت-ممنوع-برای-کامیون.png",
+    "title": "پایان سبقت ممنوع برای کامیون",
+    "category": "regulatory",
+    "imageUrl": "assets/پایان-سبقت-ممنوع-برای-کامیون.png",
+    "audioUrl": "audio_perfect/پایان-سبقت-ممنوع-برای-کامیون.mp3"
+  },
+  {
+    "id": 115,
+    "filename": "پایان-سبقت-ممنوع.png",
+    "title": "پایان سبقت ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/پایان-سبقت-ممنوع.png",
+    "audioUrl": "audio_perfect/پایان-سبقت-ممنوع.mp3"
+  },
+  {
+    "id": 116,
+    "filename": "پایان-شهر.png",
+    "title": "پایان شهر",
+    "category": "informative",
+    "imageUrl": "assets/پایان-شهر.png",
+    "audioUrl": "audio_perfect/پایان-شهر.mp3"
+  },
+  {
+    "id": 117,
+    "filename": "پایان-محدوده-توقف-ممنوع-در-ساعات-معین.png",
+    "title": "پایان محدوده توقف ممنوع در ساعات معین",
+    "category": "regulatory",
+    "imageUrl": "assets/پایان-محدوده-توقف-ممنوع-در-ساعات-معین.png",
+    "audioUrl": "audio_perfect/پایان-محدوده-توقف-ممنوع-در-ساعات-معین.mp3"
+  },
+  {
+    "id": 118,
+    "filename": "پایان-محدوده-توقف-ممنوع.png",
+    "title": "پایان محدوده توقف ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/پایان-محدوده-توقف-ممنوع.png",
+    "audioUrl": "audio_perfect/پایان-محدوده-توقف-ممنوع.mp3"
+  },
+  {
+    "id": 119,
+    "filename": "پایان-محدوده-پارک-آزاد.png",
+    "title": "پایان محدوده پارک آزاد",
+    "category": "regulatory",
+    "imageUrl": "assets/پایان-محدوده-پارک-آزاد.png",
+    "audioUrl": "audio_perfect/پایان-محدوده-پارک-آزاد.mp3"
+  },
+  {
+    "id": 120,
+    "filename": "پایان-محدودیت-سرعت-۸۰-کیلومتر.png",
+    "title": "پایان محدودیت سرعت ۸۰ کیلومتر",
+    "category": "informative",
+    "imageUrl": "assets/پایان-محدودیت-سرعت-۸۰-کیلومتر.png",
+    "audioUrl": "audio_perfect/پایان-محدودیت-سرعت-۸۰-کیلومتر.mp3"
+  },
+  {
+    "id": 121,
+    "filename": "پایان-منطقه-توقف-ممنوع.png",
+    "title": "پایان منطقه توقف ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/پایان-منطقه-توقف-ممنوع.png",
+    "audioUrl": "audio_perfect/پایان-منطقه-توقف-ممنوع.mp3"
+  },
+  {
+    "id": 122,
+    "filename": "پایان-منطقه-مسکونی.png",
+    "title": "پایان منطقه مسکونی",
+    "category": "informative",
+    "imageUrl": "assets/پایان-منطقه-مسکونی.png",
+    "audioUrl": "audio_perfect/پایان-منطقه-مسکونی.mp3"
+  },
+  {
+    "id": 123,
+    "filename": "پرتاب-سنگ.png",
+    "title": "پرتاب سنگ",
+    "category": "informative",
+    "imageUrl": "assets/پرتاب-سنگ.png",
+    "audioUrl": "audio_perfect/پرتاب-سنگ.mp3"
+  },
+  {
+    "id": 124,
+    "filename": "پرواز-هواپیما-در-ارتفاع-کم.png",
+    "title": "پرواز هواپیما در ارتفاع کم",
+    "category": "informative",
+    "imageUrl": "assets/پرواز-هواپیما-در-ارتفاع-کم.png",
+    "audioUrl": "audio_perfect/پرواز-هواپیما-در-ارتفاع-کم.mp3"
+  },
+  {
+    "id": 125,
+    "filename": "پل-متحرک.png",
+    "title": "پل متحرک",
+    "category": "informative",
+    "imageUrl": "assets/پل-متحرک.png",
+    "audioUrl": "audio_perfect/پل-متحرک.mp3"
+  },
+  {
+    "id": 126,
+    "filename": "پیش-انتخاب-مسیر.png",
+    "title": "پیش انتخاب مسیر",
+    "category": "informative",
+    "imageUrl": "assets/پیش-انتخاب-مسیر.png",
+    "audioUrl": "audio_perfect/پیش-انتخاب-مسیر.mp3"
+  },
+  {
+    "id": 127,
+    "filename": "پیچ-به-راست.png",
+    "title": "پیچ به راست",
+    "category": "warning",
+    "imageUrl": "assets/پیچ-به-راست.png",
+    "audioUrl": "audio_perfect/پیچ-به-راست.mp3"
+  },
+  {
+    "id": 128,
+    "filename": "پیچ-به-چپ.png",
+    "title": "پیچ به چپ",
+    "category": "warning",
+    "imageUrl": "assets/پیچ-به-چپ.png",
+    "audioUrl": "audio_perfect/پیچ-به-چپ.mp3"
+  },
+  {
+    "id": 129,
+    "filename": "پیچ‌های-پی‌درپی-نخستین-پیچ-به-راست.png",
+    "title": "پیچ‌های پی‌درپی نخستین پیچ به راست",
+    "category": "warning",
+    "imageUrl": "assets/پیچ‌های-پی‌درپی-نخستین-پیچ-به-راست.png",
+    "audioUrl": "audio_perfect/پیچ‌های-پی‌درپی-نخستین-پیچ-به-راست.mp3"
+  },
+  {
+    "id": 130,
+    "filename": "پیچ‌های-پی‌درپی-نخستین-پیچ-به-چپ.png",
+    "title": "پیچ‌های پی‌درپی نخستین پیچ به چپ",
+    "category": "warning",
+    "imageUrl": "assets/پیچ‌های-پی‌درپی-نخستین-پیچ-به-چپ.png",
+    "audioUrl": "audio_perfect/پیچ‌های-پی‌درپی-نخستین-پیچ-به-چپ.mp3"
+  },
+  {
+    "id": 131,
+    "filename": "چراغ-راهنما.png",
+    "title": "چراغ راهنما",
+    "category": "informative",
+    "imageUrl": "assets/چراغ-راهنما.png",
+    "audioUrl": "audio_perfect/چراغ-راهنما.mp3"
+  },
+  {
+    "id": 132,
+    "filename": "کارگران-مشغول-کارند.png",
+    "title": "کارگران مشغول کارند",
+    "category": "warning",
+    "imageUrl": "assets/کارگران-مشغول-کارند.png",
+    "audioUrl": "audio_perfect/کارگران-مشغول-کارند.mp3"
+  },
+  {
+    "id": 133,
+    "filename": "کودکان.png",
+    "title": "کودکان",
+    "category": "informative",
+    "imageUrl": "assets/کودکان.png",
+    "audioUrl": "audio_perfect/کودکان.mp3"
+  },
+  {
+    "id": 134,
+    "filename": "گذرگاه-عابر-پیاده.png",
+    "title": "گذرگاه عابر پیاده",
+    "category": "informative",
+    "imageUrl": "assets/گذرگاه-عابر-پیاده.png",
+    "audioUrl": "audio_perfect/گذرگاه-عابر-پیاده.mp3"
+  },
+  {
+    "id": 135,
+    "filename": "گذرگاه-پیاده.png",
+    "title": "گذرگاه پیاده",
+    "category": "informative",
+    "imageUrl": "assets/گذرگاه-پیاده.png",
+    "audioUrl": "audio_perfect/گذرگاه-پیاده.mp3"
+  },
+  {
+    "id": 136,
+    "filename": "گردش-به-راست-ممنوع.png",
+    "title": "گردش به راست ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/گردش-به-راست-ممنوع.png",
+    "audioUrl": "audio_perfect/گردش-به-راست-ممنوع.mp3"
+  },
+  {
+    "id": 137,
+    "filename": "گردش-به-چپ-ممنوع.png",
+    "title": "گردش به چپ ممنوع",
+    "category": "regulatory",
+    "imageUrl": "assets/گردش-به-چپ-ممنوع.png",
+    "audioUrl": "audio_perfect/گردش-به-چپ-ممنوع.mp3"
+  },
+  {
+    "id": 138,
+    "filename": "گردش-به-چپ-و-راست-مجاز-است.png",
+    "title": "گردش به چپ و راست مجاز است",
+    "category": "informative",
+    "imageUrl": "assets/گردش-به-چپ-و-راست-مجاز-است.png",
+    "audioUrl": "audio_perfect/گردش-به-چپ-و-راست-مجاز-است.mp3"
+  }
+]
